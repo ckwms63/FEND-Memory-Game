@@ -1,7 +1,7 @@
 # Memory Game Project
 
 - This game will test the strength of your memory
-- Click [HERE]() to play the game
+- Click [HERE](https://goo.gl/A5yJcg) to play the game
 
 ![Memory Game](img/MemoryGame1.JPG)
 
